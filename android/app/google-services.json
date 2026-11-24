@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "447858586649",
+    "project_id": "padres360",
+    "storage_bucket": "padres360.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447858586649:android:b64c900ef9cf0b594fa688",
+        "android_client_info": {
+          "package_name": "com.u3digital.padres360"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnuWai68LWAmX-vNQABfnBeKVYxsj68p8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

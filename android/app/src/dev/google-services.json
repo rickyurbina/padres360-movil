@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "405188564757",
+    "project_id": "padres360-9adbe",
+    "storage_bucket": "padres360-9adbe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405188564757:android:048df87a7cf9f664bebb1c",
+        "android_client_info": {
+          "package_name": "com.u3digital.padres360"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQT9NRxDt5NFsCOQDyPZkSJRspAHVmqY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405188564757:android:310e9fb664207be8bebb1c",
+        "android_client_info": {
+          "package_name": "com.u3digital.padres360.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQT9NRxDt5NFsCOQDyPZkSJRspAHVmqY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

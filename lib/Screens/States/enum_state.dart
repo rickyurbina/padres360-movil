@@ -1,0 +1,1 @@
+enum ListState { loading, error, empty, loaded }
